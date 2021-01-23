@@ -17,10 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ### Flutter Todo App Features
--Listview.builder for Todo things.
--User can add Title to their notes.
--User can add notes.
--Delete notes.
--ExpansionTiles and TabBar are used for Better UI.
+-Listview.builder for Todo things. <br />
+-User can add Title to their notes.<br />
+-User can add notes.<br />
+-Delete notes.<br />
+-ExpansionTiles and TabBar are used for Better UI.<br />
 
 
