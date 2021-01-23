@@ -1,7 +1,8 @@
-# todo
+# Todo
 
 A new Flutter project where you can store your important notes, important reminders, list of things to do.<br />
-User can write short Notes, poems, stories with a title.
+User can write short Notes, poems, stories with a title.<br />
+A Flutter project with Responsive UI.
 
 # Flutter Todo App Features
 -Listview.builder for Todo things. <br />
