@@ -3,7 +3,7 @@
 A new Flutter project where you can store your important notes, important reminders, list of things to do.<br />
 User can write short Notes, poems, stories with a title.
 
-### Flutter Todo App Features
+# Flutter Todo App Features
 -Listview.builder for Todo things. <br />
 -User can add Title to their notes.<br />
 -User can add notes.<br />
@@ -25,6 +25,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-#### Screenshots
-![alt text](https://github.com/rajranjan5215/Things-to-do/screenshots/1.jpeg?raw=true)
+# Screenshots
+![alt text]https://github.com/rajranjan5215/Things-to-do/blob/main/screenshots/1.jpeg?raw=true)
+![alt text]https://github.com/rajranjan5215/Things-to-do/blob/main/screenshots/2.jpeg?raw=true)
+![alt text]https://github.com/rajranjan5215/Things-to-do/blob/main/screenshots/3.jpeg?raw=true)
 
