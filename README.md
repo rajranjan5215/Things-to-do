@@ -26,7 +26,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # Screenshots
-![alt text]https://github.com/rajranjan5215/Things-to-do/blob/main/screenshots/1.jpeg?raw=true)
-![alt text]https://github.com/rajranjan5215/Things-to-do/blob/main/screenshots/2.jpeg?raw=true)
-![alt text]https://github.com/rajranjan5215/Things-to-do/blob/main/screenshots/3.jpeg?raw=true)
+![alt text](https://github.com/rajranjan5215/Things-to-do/blob/main/screenshots/1.jpeg?raw=true)
+![alt text](https://github.com/rajranjan5215/Things-to-do/blob/main/screenshots/2.jpeg?raw=true)
+![alt text](https://github.com/rajranjan5215/Things-to-do/blob/main/screenshots/3.jpeg?raw=true)
 
