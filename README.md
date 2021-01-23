@@ -26,5 +26,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 #### Screenshots
-![alt text](https://github.com/rajranjan5215/Things-to-do/screenshots/1.jpg?raw=true)
+![alt text](https://github.com/rajranjan5215/Things-to-do/screenshots/1.jpeg?raw=true)
 
